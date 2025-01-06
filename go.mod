@@ -1,4 +1,4 @@
-module github.com/flannel-io/flannel
+module github.com/mcalfin/flannel
 
 go 1.23
 
